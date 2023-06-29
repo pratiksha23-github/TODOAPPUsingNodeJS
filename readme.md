@@ -8,4 +8,4 @@
 - You can add a due date, a checklist and labels to each card.
 
 ### Demo:-
-<img src="[drawing.jpg](https://github.com/pratiksha23-github/TODOAPPUsingNodeJS/assets/85682428/96574c78-035b-4100-8006-52c385c3860a)https://github.com/pratiksha23-github/TODOAPPUsingNodeJS/assets/85682428/96574c78-035b-4100-8006-52c385c3860a" alt="demo" width="200"/>
+<img src="https://github.com/pratiksha23-github/TODOAPPUsingNodeJS/assets/85682428/96574c78-035b-4100-8006-52c385c3860a)https://github.com/pratiksha23-github/TODOAPPUsingNodeJS/assets/85682428/96574c78-035b-4100-8006-52c385c3860a" alt="demo" width="200"/>
