@@ -7,5 +7,5 @@
 - Under each list, you can add "Cards," which are items in a list.
 - You can add a due date, a checklist and labels to each card.
 
-
-![image](https://github.com/pratiksha23-github/TODOAPPUsingNodeJS/assets/85682428/96574c78-035b-4100-8006-52c385c3860a)
+### Demo:-
+<img src="[drawing.jpg](https://github.com/pratiksha23-github/TODOAPPUsingNodeJS/assets/85682428/96574c78-035b-4100-8006-52c385c3860a)https://github.com/pratiksha23-github/TODOAPPUsingNodeJS/assets/85682428/96574c78-035b-4100-8006-52c385c3860a" alt="demo" width="200"/>
